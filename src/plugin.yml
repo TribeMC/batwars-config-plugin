@@ -1,0 +1,6 @@
+name: BatWarsConfig
+version: 1.0
+author: V3lop5
+main: de.tribemc.batwarsconfig.main.Main
+commands:
+  batwars:
